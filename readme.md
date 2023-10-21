@@ -62,7 +62,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; AI and data science student with a passion for problem-solving and innovation<br/><br/>
+ ✌️ &emsp; Passionate AI and data student<br/><br/>
  ❤️ &emsp; Exploring the possibilities of AI and data science for real-world impact<br/><br/>
  📧 &emsp; Reach me anytime: aymanboufarhi1@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/aymanboufarhi/aymanboufarhi/issues)
