@@ -84,6 +84,7 @@
 ![C](https://img.shields.io/badge/-Language%20C%20-61DBFB?style=for-the-badge&labelColor=black&logo=C&logoColor=61DBFB)
 ![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&labelColor=ffd343&logo=python)
 
 <br/>
 
