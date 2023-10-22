@@ -75,16 +75,15 @@
 
 ## Use To Code
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&labelColor=ffd343&logo=python)
+![JAVA](https://img.shields.io/badge/Java%20-%20JavaFX-F05032?style=for-the-badge&logo=JAVA)
+![C](https://img.shields.io/badge/-Language%20C%20-61DBFB?style=for-the-badge&labelColor=black&logo=C&logoColor=61DBFB)
+![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=JAVA)
-![C](https://img.shields.io/badge/-Language%20C%20-61DBFB?style=for-the-badge&labelColor=black&logo=C&logoColor=61DBFB)
-![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=61DAFB)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&labelColor=ffd343&logo=python)
 
 <br/>
 
