@@ -76,6 +76,7 @@
 ## Use To Code
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&labelColor=ffd343&logo=python)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-FFA500?style=for-the-badge&labelColor=FFFFFF&logo=jupyter)
 ![JAVA](https://img.shields.io/badge/Java%20-%20JavaFX-F05032?style=for-the-badge&logo=JAVA)
 ![C](https://img.shields.io/badge/-Language%20C%20-61DBFB?style=for-the-badge&labelColor=black&logo=C&logoColor=61DBFB)
 ![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=61DAFB)
