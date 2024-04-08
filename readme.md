@@ -95,6 +95,7 @@
 <br/>
 
 ## Top Open Source -
+[![Arabic Text Preprocessing](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=Arabic-Text-Preprocessing&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aymanboufarhi/Arabic-Text-Preprocessing)
 [![Decision Tree Model From Scratch](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=Decision-Tree-Model-From-Scratch&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aymanboufarhi/Decision-Tree-Model-From-Scratch)
 [![Serious Game](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=Serious-Game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aymanboufarhi/Serious-Game)
 [![Esalaf](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=Esalaf&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aymanboufarhi/Esalaf)
