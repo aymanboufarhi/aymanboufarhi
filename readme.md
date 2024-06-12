@@ -32,9 +32,9 @@
  <a href="https://www.linkedin.com/in/ayman-boufarhi" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aymanboufarhi"/>
  </a>
- <!-- <a href="https://dev.to/aymanboufarhi" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="aymanboufarhi" />
- </a> -->
+ <a href="https://aymanboufarhi.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logoColor=white" alt="aymanboufarhi" />
+ </a>
  <a href="https://twitter.com/aymanboufarhi" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" />
  </a>
