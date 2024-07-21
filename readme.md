@@ -83,20 +83,6 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br/>
-
-## Top Open Source -
-[![FSTT Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=FSTT-Chatbot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aymanboufarhi/FSTT-Chatbot)
-[![Real Time Twitter Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=Real-Time-Twitter-Sentiment-Analysis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aymanboufarhi/Real-Time-Twitter-Sentiment-Analysis)
-[![Serious Game](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=Serious-Game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aymanboufarhi/Serious-Game)
-[![NLP Labs](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=NLP-Labs&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aymanboufarhi/NLP-Labs)
-
-
-<p align="left">
-  <a href="https://github.com/aymanboufarhi?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
 <hr/>
 <br/>
 
@@ -117,6 +103,3 @@
   <a href="https://github.com/aymanboufarhi"><img alt="Ayman Boufarhi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aymanboufarhi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
-
-![Ayman Boufarhi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aymanboufarhi&custom_title=Ayman%20Boufarhi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
