@@ -89,7 +89,7 @@
 [![FSTT Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=FSTT-Chatbot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aymanboufarhi/FSTT-Chatbot)
 [![Real Time Twitter Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=Real-Time-Twitter-Sentiment-Analysis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aymanboufarhi/Real-Time-Twitter-Sentiment-Analysis)
 [![Serious Game](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=Serious-Game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aymanboufarhi/Serious-Game)
-[![Esalaf](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=Esalaf&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aymanboufarhi/Esalaf)
+[![NLP Labs](https://github-readme-stats.vercel.app/api/pin/?username=aymanboufarhi&repo=NLP-Labs&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aymanboufarhi/NLP-Labs)
 
 
 <p align="left">
