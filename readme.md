@@ -22,7 +22,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Ayman+Boufarhi">「 Google Me 」</a>
     <br>
-    「 I am an AI and Data Science student from <b>Morocco</b> 」
+    「 I am a Business Intelligence Developer & Data Scientist from <b>Morocco</b> 」
     <br>
     <br>
   </samp>
