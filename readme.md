@@ -32,9 +32,6 @@
  <a href="https://www.linkedin.com/in/aymanboufarhi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aymanboufarhi"/>
  </a>
- <a href="https://aymanboufarhi.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logoColor=white" alt="aymanboufarhi" />
- </a>
  <a href="https://twitter.com/aymanboufarhi" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" />
  </a>
@@ -53,7 +50,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Passionate AI and Data Science student<br/><br/>
+ ✌️ &emsp; Passionate Business Intelligence Developer & Data Scientist<br/><br/>
  ❤️ &emsp; Exploring the possibilities of AI and Data Science for real-world impact<br/><br/>
  📧 &emsp; Reach me anytime: aymanboufarhi1@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/aymanboufarhi/aymanboufarhi/issues)
